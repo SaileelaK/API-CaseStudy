@@ -1,0 +1,41 @@
+2020-07-21 19:55:18,249 INFO  [log] srikanth@gmail.com
+2020-07-21 19:55:18,271 INFO  [log] Number of rows in excel : 2
+2020-07-21 19:55:18,272 INFO  [log] Number of columns in excel : 3
+2020-07-21 19:55:18,325 INFO  [log] email is saileela@gmail.com
+2020-07-21 19:55:18,326 INFO  [log] firstname is sai
+2020-07-21 19:55:18,330 INFO  [log] lastname is leela
+2020-07-21 19:55:27,045 INFO  [log] Number of steps executed are 5
+2020-07-21 19:55:27,046 INFO  [log] email is srikanth@gmail.com
+2020-07-21 19:55:27,046 INFO  [log] firstname is sri
+2020-07-21 19:55:27,054 INFO  [log] lastname is kanth
+2020-07-21 19:55:40,705 INFO  [log] Number of steps executed are 5
+2020-07-21 19:55:41,014 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <COUNT>2</COUNT>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-07-21 19:55:41,051 INFO  [log] count is 2
+2020-07-21 19:55:41,057 INFO  [log] i value is 1
+2020-07-21 19:55:41,072 INFO  [log] email is saileela@gmail.com
+2020-07-21 19:55:41,073 INFO  [log] firstname is sai
+2020-07-21 19:55:41,081 INFO  [log] lastname is leela
+2020-07-21 19:55:54,558 INFO  [log] Number of steps executed are 5
+2020-07-21 19:55:54,563 INFO  [log] i value is 2
+2020-07-21 19:55:54,590 INFO  [log] email is srikanth@gmail.com
+2020-07-21 19:55:54,591 INFO  [log] firstname is sri
+2020-07-21 19:55:54,593 INFO  [log] lastname is kanth
+2020-07-21 19:56:04,279 INFO  [log] Number of steps executed are 5
+2020-07-21 19:56:04,338 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <COUNT>2</COUNT>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-07-21 19:56:04,372 INFO  [log] count is 2
+2020-07-21 19:56:04,379 INFO  [log] hi 1
+2020-07-21 19:56:04,381 INFO  [log] hi 2
